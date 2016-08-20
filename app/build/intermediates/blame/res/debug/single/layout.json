@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/res/merged/debug/layout/item_city_list.xml",
+        "source": "/home/eric/Android/AndroidStudioProjects/Weather2/app/src/main/res/layout/item_city_list.xml"
+    },
+    {
+        "merged": "/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/res/merged/debug/layout/activity_city.xml",
+        "source": "/home/eric/Android/AndroidStudioProjects/Weather2/app/src/main/res/layout/activity_city.xml"
+    },
+    {
+        "merged": "/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/home/eric/Android/AndroidStudioProjects/Weather2/app/src/main/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/res/merged/debug/layout/activity_weather.xml",
+        "source": "/home/eric/Android/AndroidStudioProjects/Weather2/app/src/main/res/layout/activity_weather.xml"
+    }
+]

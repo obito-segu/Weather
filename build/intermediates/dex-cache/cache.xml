@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="917c17dd76723eb8dc176837ef78b1fe86a3d2e5">
+        <dex dex="/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/pre-dexed/debug/instant-run_73ae9f94e4703b6630f8d9aae034c8cc96d1e019.jar" />
+    </item>
+    <item
+        jar="/home/eric/Android/AndroidStudioProjects/Weather2/app/libs/juhe_sdk_v_1_2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5430a5814f049a47a5cde1909bd82e88ad0594b3">
+        <dex dex="/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/pre-dexed/debug/juhe_sdk_v_1_2_a791b4bce89fa890deccd79e7dc9fb44269f546d.jar" />
+    </item>
+    <item
+        jar="/home/eric/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_959d3d7c688cd3df2e0797bf5cf95b5146002e25.jar" />
+    </item>
+    <item
+        jar="/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45425c323f80fc74529af1d25e6ce8b9f163c0c8">
+        <dex dex="/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2eca75740b0c7115aff72740a01342e46cb6a274.jar" />
+    </item>
+
+</items>

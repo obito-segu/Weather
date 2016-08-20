@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/res/merged/debug/drawable/wireframe_dark.xml",
+        "source": "/home/eric/Android/AndroidStudioProjects/Weather2/app/src/main/res/drawable/wireframe_dark.xml"
+    },
+    {
+        "merged": "/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/res/merged/debug/drawable/wireframe_light.xml",
+        "source": "/home/eric/Android/AndroidStudioProjects/Weather2/app/src/main/res/drawable/wireframe_light.xml"
+    },
+    {
+        "merged": "/home/eric/Android/AndroidStudioProjects/Weather2/app/build/intermediates/res/merged/debug/drawable/progressbar.xml",
+        "source": "/home/eric/Android/AndroidStudioProjects/Weather2/app/src/main/res/drawable/progressbar.xml"
+    }
+]
